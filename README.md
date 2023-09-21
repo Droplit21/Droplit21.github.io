@@ -8,7 +8,7 @@ Eric Pogue [email:epogue@lewisu.edu](mailto:epogue@lewisu.edu)
 ## Credits
 [W3Schools HTML Tutorial](https://www.w3schools.com/html/) for the HTML template code.
 https://en.wikipedia.org/ for the information regarding greatest innovations.
-Lonnie Phillips for the information input into the website.
+Lonnie Phillips for the information input into the website. Email - Lonniepphillips@lewisu.edu
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
@@ -16,8 +16,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 ## Improvements
 Add English language and UTF-8 tags by modifying index.html so that it looks like this:
 ```
-## Getting to Know Each Other
-Lonnie Phillips - Lonniepphillips@lewisu.edu
 
 <!DOCTYPE html>
 <html lang="en">
