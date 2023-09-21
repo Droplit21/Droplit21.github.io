@@ -16,6 +16,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 ## Improvements
 Add English language and UTF-8 tags by modifying index.html so that it looks like this:
 ```
+## Getting to Know Each Other
+Lonnie Phillips - Lonniepphillips@lewisu.edu
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
