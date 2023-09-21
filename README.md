@@ -7,6 +7,8 @@ Eric Pogue [email:epogue@lewisu.edu](mailto:epogue@lewisu.edu)
 
 ## Credits
 [W3Schools HTML Tutorial](https://www.w3schools.com/html/) for the HTML template code.
+https://en.wikipedia.org/ for the information regarding greatest innovations.
+Lonnie Phillips for the information input into the website.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
